@@ -16,7 +16,9 @@ public class Solution {
     }
     public int[] findMode(TreeNode root) {
         traverse(root);
-        int max=Integer.MIN_VALUE;
-        List<Integer> list=new ArrayList<>();
+        int max = Integer.MIN_VALUE;
+        List<Integer> list = new ArrayList<>();
+        return null;
+    }
 
 }
